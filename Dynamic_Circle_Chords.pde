@@ -1,10 +1,10 @@
 // Based on "Dynamic Circle Chords":http://www.openprocessing.org/visuals/?visualID=4872 by "Kyle Rollin":http://www.openprocessing.org/portal/?userID=2640 
 
 // Created using "Processing":http://processing.org/ 
-
 // http://www.openprocessing.org/visuals/?visualID=4872
-
-// http://www.openprocessing.org/visuals/?visualID=4872
+// Artwork on Redbubble at: https://www.redbubble.com/people/rupertrussell/works/15996120-dynamic-circle-chords-ii-black
+// https://www.redbubble.com/people/rupertrussell/works/7969073-dynamic-circle-chords-ii
+// Code on Github at: https://www.redbubble.com/people/rupertrussell/works/7969073-dynamic-circle-chords-ii
 
 int numRings = 1;
 Ring[] rings = new Ring[numRings];
